@@ -12,6 +12,6 @@ It is an updated repo, the previous one uploaded was having some bugs which I ha
 
 > Da, all done here, now compile the source code and test it out.
 
-> **NOTE:** _Any add ups are  welcome and do file a PR if you find any error._
+> **NOTE:** _Any add ups are  welcome and do raise a issue if you find any error._
 
 ![assest](https://github.com/belphegor-s/CPP_Star-Numbers_Pattern/blob/master/Star-Pattern-In-C-final.png)
