@@ -10,7 +10,7 @@ It is an updated repo, the previous one uploaded was having some bugs which I ha
 
 - Any Text Editor or IDE : VS-Code (Recommended), [Download Here](https://code.visualstudio.com/download)
 
-> Da, all done here, now compile the source code and test it out.
+> Da, all done here, now compile the source code and test it out.<br/>
 > **NOTE:** _Any add ups are  welcome and do raise a issue if you find any error._
 
 ![assest](https://github.com/belphegor-s/CPP_Star-Numbers_Pattern/blob/master/Star-Pattern-In-C-final.png)
